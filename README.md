@@ -1,7 +1,7 @@
 # mia-bash-terminal
 a nice bash terminal overview
 
-![preview.png]
+![preview](preview.png)
 
 ## instructions
 
