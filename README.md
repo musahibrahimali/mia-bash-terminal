@@ -1,6 +1,8 @@
 # mia-bash-terminal
 a nice bash terminal overview
 
+![preview.png]
+
 ## instructions
 
 - download this repo as zip or clone it using git in the cmd window
